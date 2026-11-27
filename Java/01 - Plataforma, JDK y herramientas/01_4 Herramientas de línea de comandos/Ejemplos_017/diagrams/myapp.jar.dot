@@ -1,0 +1,6 @@
+digraph "myapp.jar" {
+    // Path: myapp.jar
+   "<unnamed>"                                        -> "java.lang (java.base)";
+   "<unnamed>"                                        -> "java.sql (java.sql)";
+   "<unnamed>"                                        -> "java.util (java.base)";
+}

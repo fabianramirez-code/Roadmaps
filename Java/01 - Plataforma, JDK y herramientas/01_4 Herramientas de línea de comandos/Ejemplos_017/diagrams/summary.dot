@@ -1,0 +1,4 @@
+digraph "summary" {
+  "myapp.jar"                                        -> "java.base (java.base)";
+  "myapp.jar"                                        -> "java.sql (java.sql)";
+}

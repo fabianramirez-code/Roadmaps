@@ -1,0 +1,5 @@
+<?xml version="1.0" ?>
+<jpackage-state version="25.0.5.1" platform="windows">
+  <app-version>1.0</app-version>
+  <main-launcher>PruebaApp</main-launcher>
+  <main-class>Prueba</main-class></jpackage-state>
